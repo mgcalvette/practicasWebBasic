@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+h1{
+    font-family: 'ZCOOL XiaoWei', serif;
+    text-align: center;
+}
+header{
+    
+    background-color: rgba(0, 0, 0,0.6);
+    color: white;
+}
+body {   
+      background-color: rgb(224, 172, 185);
+      background-size: auto;
+}
+.nav{
+    color:white;
+    text-decoration:none;
+    padding:3px;
+    border-radius:3px;
+}
+footer{
+    background-color: rgba(0, 0, 0,0.6);
+    color: white;
+    text-align: center;
+    /*margin-top:10px;*/
+}
+
+a{
+    color: rgba(255,255,255);
+}
+
+menu{
+    text-align: center;
+}
+
